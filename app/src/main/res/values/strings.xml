@@ -3,4 +3,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+    <string name="addStudent">Add student</string>
+    <string name="retrieveStudent">Retrieve student</string>
+    <string name="delete">Delete</string>
+    <string name="num_delete">Id to be deleted</string>
 </resources>
